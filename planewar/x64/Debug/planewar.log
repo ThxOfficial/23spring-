@@ -1,0 +1,16 @@
+﻿  planewar.cpp
+F:\学习\计算机项目\c++项目（VS)\planewar\planewar.cpp(288,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\学习\计算机项目\c++项目（VS)\planewar\planewar.cpp(295,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\学习\计算机项目\c++项目（VS)\planewar\planewar.cpp(744,73): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\学习\计算机项目\c++项目（VS)\planewar\planewar.cpp(744,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\学习\计算机项目\c++项目（VS)\planewar\planewar.cpp(745,73): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\学习\计算机项目\c++项目（VS)\planewar\planewar.cpp(745,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\学习\计算机项目\c++项目（VS)\planewar\planewar.cpp(1039,65): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\学习\计算机项目\c++项目（VS)\planewar\planewar.cpp(1039,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\学习\计算机项目\c++项目（VS)\planewar\planewar.cpp(1040,65): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\学习\计算机项目\c++项目（VS)\planewar\planewar.cpp(1040,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\学习\计算机项目\c++项目（VS)\planewar\planewar.cpp(1132,67): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\学习\计算机项目\c++项目（VS)\planewar\planewar.cpp(1132,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\学习\计算机项目\c++项目（VS)\planewar\planewar.cpp(1133,67): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\学习\计算机项目\c++项目（VS)\planewar\planewar.cpp(1133,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  planewar.vcxproj -> F:\学习\计算机项目\c++项目（VS)\planewar\x64\Debug\planewar.exe
